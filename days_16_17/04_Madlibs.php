@@ -18,7 +18,7 @@
 
       
       print "The $adjective $noun was very  hungry so it decided to $adverb $verb to the nearest restaurant."
-
+      
      ?></div>
     <form method="post" action="04_Madlibs.php">
       Name: <input type="text" name="name"><br>
